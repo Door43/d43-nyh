@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyh:home|Door43 (nyh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyh|d43-nyh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyh/archive/master.zip|d43-nyh.zip]]
+
+**Recent Changes**
+{{changes>ns = nyh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyh|Ethnologue data]]
+
